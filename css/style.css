@@ -26,6 +26,12 @@ p{
 header{
     padding-top: 10px;
 }
+.container-fluid{
+    justify-content: center;
+}
+.navbar-brand{
+    text-align: center;
+}
 section{
     /* background-color: mediumaquamarine; */
     border-radius: 15px;

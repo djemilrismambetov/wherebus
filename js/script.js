@@ -14,7 +14,7 @@
 
 
 // Получаем все элементы img на странице
-const images = document.getElementsByTagName("img");
+// const images = document.getElementsByTagName("img");
 
 // Проходимся по каждому изображению
 // for (let i = 0; i < images.length; i++) {
