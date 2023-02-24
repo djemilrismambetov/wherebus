@@ -27,10 +27,15 @@ header{
     padding-top: 10px;
 }
 .container-fluid{
+    /* justify-content: center !important; */
+    width:max-content;
+}
+.navbar{
     justify-content: center;
 }
 .navbar-brand{
     text-align: center;
+    margin:0;
 }
 section{
     /* background-color: mediumaquamarine; */
