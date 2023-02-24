@@ -101,7 +101,7 @@ footer .container{
 }
 .bus-22a{
     padding: 20px 0px;
-    padding-left: 1325px;
+    padding-left: 75%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -210,7 +210,7 @@ iframe{
     /* *{
         color: aqua !important;
     } */
-    .bus-22a{
+    /* .bus-22a{
         padding: 5px 0px;
         display: flex;
         flex-direction: column;
@@ -218,7 +218,7 @@ iframe{
         /* flex-direction: row-reverse;
         justify-content: space-around;
         gap: 20px; */
-    }
+    } */
     .btn-group{
         display: flex;
         vertical-align: top;
