@@ -1,6 +1,8 @@
 body{
-    background-color: honeydew;
-    
+    /* background-color: honeydew; */
+    background-image: url(../assets/img/1677231069618.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
 }
 
 .container{
@@ -9,8 +11,10 @@ body{
    
 }
 .navbar-bg{
-    background-color: mediumaquamarine;
+    max-width: 650px;
+    background-color: rgba(102, 205, 171, 0.541);
     border-radius: 15px;
+    margin: 0 auto;
 }
 .hidden{
     display: none !important;
@@ -244,6 +248,14 @@ iframe{
     }
 }
 @media screen and (max-width:768px) {
+    .navbar-brand{
+        font-size:25px;
+    }
+    .body{
+        background-position: center center;
+        background-size: 576px 1000px;
+
+    }
     .frames{
         padding-top: 0px;
         margin-top: -11px;
