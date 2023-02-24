@@ -51,7 +51,7 @@ section{
     border-radius: 15px;
 }
 footer .container{
-    background-color: rgba(128, 128, 128,0.1);
+    background-color: rgba(128, 128, 128,0.6);
     border-radius: 25px;
     opacity: 1;
     display: flex;
@@ -252,9 +252,9 @@ iframe{
         font-size:25px;
     }
     .body{
-        background-position: center center;
-        background-size: 576px 1000px;
-
+        /* background-position: right bottom; */
+        /* background-size: right bottom; */
+        /* background-position-y: 400px; */
     }
     .frames{
         padding-top: 0px;
