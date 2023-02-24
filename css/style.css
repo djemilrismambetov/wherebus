@@ -215,9 +215,9 @@ iframe{
         display: flex;
         flex-direction: column;
         align-items: center;
-        /* flex-direction: row-reverse;
+        flex-direction: row-reverse;
         justify-content: space-around;
-        gap: 20px; */
+        gap: 20px; 
     } */
     .btn-group{
         display: flex;
